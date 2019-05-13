@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\nano-csharp-demo\nano-csharp-demo\bin\Debug\nano-csharp-demo.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\nano-csharp-demo\nano-csharp-demo\bin\Debug\nano-csharp-demo.exe
+c:\users\administrator\documents\visual studio 2015\Projects\nano-csharp-demo\nano-csharp-demo\bin\Debug\nano-csharp-demo.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\nano-csharp-demo\nano-csharp-demo\bin\Debug\starx-client-dotnet.dll
+c:\users\administrator\documents\visual studio 2015\Projects\nano-csharp-demo\nano-csharp-demo\bin\Debug\starx-client-dotnet.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\nano-csharp-demo\nano-csharp-demo\obj\Debug\nano-csharp-demo.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\nano-csharp-demo\nano-csharp-demo\obj\Debug\nano-csharp-demo.exe
+c:\users\administrator\documents\visual studio 2015\Projects\nano-csharp-demo\nano-csharp-demo\obj\Debug\nano-csharp-demo.pdb

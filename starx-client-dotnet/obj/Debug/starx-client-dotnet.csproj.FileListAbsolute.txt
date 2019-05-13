@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2015\Projects\nano-csharp-demo\starx-client-dotnet\bin\Debug\starx-client-dotnet.dll
+c:\users\administrator\documents\visual studio 2015\Projects\nano-csharp-demo\starx-client-dotnet\bin\Debug\starx-client-dotnet.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\nano-csharp-demo\starx-client-dotnet\obj\Debug\starx-client-dotnet.dll
+c:\users\administrator\documents\visual studio 2015\Projects\nano-csharp-demo\starx-client-dotnet\obj\Debug\starx-client-dotnet.pdb

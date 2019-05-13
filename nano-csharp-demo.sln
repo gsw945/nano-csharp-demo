@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nano-csharp-demo", "nano-csharp-demo\nano-csharp-demo.csproj", "{7840C0D5-B462-4716-9AA7-71134EC09DAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "starx-client-dotnet", "starx-client-dotnet\starx-client-dotnet.csproj", "{B935B2BA-37CD-4586-A939-1146D36C8EA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7840C0D5-B462-4716-9AA7-71134EC09DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7840C0D5-B462-4716-9AA7-71134EC09DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7840C0D5-B462-4716-9AA7-71134EC09DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7840C0D5-B462-4716-9AA7-71134EC09DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B935B2BA-37CD-4586-A939-1146D36C8EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B935B2BA-37CD-4586-A939-1146D36C8EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B935B2BA-37CD-4586-A939-1146D36C8EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B935B2BA-37CD-4586-A939-1146D36C8EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
